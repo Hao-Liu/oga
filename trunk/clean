@@ -1,0 +1,2 @@
+make clean
+rm config.* configure Makefile Makefile.in missing depcomp install-sh aclocal.m4 autom4te.cache/ src/Makefile src/Makefile.in src/.deps -rf
