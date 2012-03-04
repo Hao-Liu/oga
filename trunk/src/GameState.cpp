@@ -1,4 +1,5 @@
 #include "GameState.h"
+#include <OgreRoot.h>
 
 void GameState::enter ()
 {
